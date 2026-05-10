@@ -20,6 +20,8 @@ Setup takes about three minutes the first time, while R packages install. Subseq
 
 The workshop dataset is downloaded on Day 1 as the first hands-on task, using Claude Code itself.
 
+A workshop project [`CLAUDE.md`](./CLAUDE.md) lives at the root of this repo. Claude Code reads it at the start of every session and uses it to apply the workshop's conventions: variable names, statistical defaults, output formatting, and anti-patterns. Look at it once before Day 1 so you know what is in scope.
+
 ## First-time Claude Code authentication
 
 In a Codespace, Claude Code cannot open your browser for you (it is running on a remote machine). Instead:
