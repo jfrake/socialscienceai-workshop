@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+.env
+.env.local
+data/raw/
+data/output/
+.Rhistory
+.RData
+__pycache__/
+*.pyc
